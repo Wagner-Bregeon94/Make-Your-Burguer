@@ -90,7 +90,7 @@
         "Bacon",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
@@ -102,7 +102,7 @@
         "Cebola roxa",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "s.tipo",
       "id": 4
     },
     {
@@ -113,8 +113,18 @@
         "Bacon",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 5
+    },
+    {
+      "nome": "joaquim",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Em produção",
+      "id": 6
     }
   ]
 }
