@@ -94,29 +94,6 @@
       "id": 1
     },
     {
-      "nome": "Wagner",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "joão",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Pepino",
-        "Cebola roxa",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
       "nome": "carlos",
       "carne": "Picanha",
       "pao": "Pão Mexicano",
