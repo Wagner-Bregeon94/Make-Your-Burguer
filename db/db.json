@@ -94,18 +94,6 @@
       "id": 1
     },
     {
-      "nome": "carlos",
-      "carne": "Picanha",
-      "pao": "Pão Mexicano",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa",
-        "Cheddar"
-      ],
-      "status": "s.tipo",
-      "id": 4
-    },
-    {
       "nome": "maria",
       "carne": "Alcatra",
       "pao": "Integral",
@@ -123,7 +111,7 @@
       "opcionais": [
         "Bacon"
       ],
-      "status": "Em produção",
+      "status": "Finalizado",
       "id": 6
     }
   ]
